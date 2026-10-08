@@ -60,15 +60,26 @@ int main()
     // while (i<=100)
     // {sum=sum+i;i++;}
     // cout <<"sum="<<sum<<endl;
-    int sum=0;
-    for (int i=1;i<=100;i++)
-    {
-        sum=sum+i;
-    }
-    cout <<"sum="<<sum<<endl;
+    // int sum=0;
+    // for (int i=1;i<=100;i++)
+    // {
+    //     sum=sum+i;
+    // }
+    // cout <<"sum="<<sum<<endl;
+    // int sum=0;
+    // for (int i=1;i<=100;i=i+2)
+    // {
+    //     sum=sum+i;
+    // }
+    // cout <<"sum="<<sum<<endl;
+    // int result=1;
+    // for (int i=1;i<=13;i=i+1)
+    // {
+    //    result=i*result;
+    // }
+    // cout<<"result="<<result<<endl;
     
 
-   
 
    
    
